@@ -20,7 +20,7 @@ The visual language combines quiet Islamic emerald tones, warm gold accents, gen
 
 ### Prayer board
 
-![MIRQAT home screen](assets/home-screen.jpg)
+![MIRQAT home screen](assets/Screenshot_20260914_043004_MIRQAT.jpg)
 
 ### Features
 
