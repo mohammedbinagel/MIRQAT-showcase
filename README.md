@@ -24,7 +24,7 @@ The visual language combines quiet Islamic emerald tones, warm gold accents, gen
 
 ### Features
 
-![MIRQAT features](assets/features-screen.jpg)
+![MIRQAT features](assets/222.jpg)
 
 ### Tools
 
